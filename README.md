@@ -1,4 +1,7 @@
 # DIO - Trilha .NET - API e Entity Framework
+
+**Desafio completo. O desafio e código concluído pode ser encontrado em TarefaController.cs sob a pasta Controllers.**
+
 www.dio.me
 
 ## Desafio de projeto
